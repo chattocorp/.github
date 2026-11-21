@@ -10,7 +10,7 @@ We build Chatto, an open-source chat app for teams and communities. You can host
 
 Geordi is a desktop app for working with coding agents. Each agent gets its own Git worktree and branch, so you can run tasks side by side. Follow the diff as an agent works, steer it in the conversation, and track its pull request from the same workspace.
 
-[Explore Geordi on GitHub](https://github.com/chattocorp/geordi)
+[Visit the Geordi website](https://geordi.run) · [Explore Geordi on GitHub](https://github.com/chattocorp/geordi)
 
 ## Sweet Release
 
